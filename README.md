@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Detecção de Fraudes em Cartões de Crédito
 
-Este projeto implementa um pipeline completo de Machine Learning para a identificação de fraudes em transações de cartão de crédito. Devido à natureza do problema (fraudes representam cerca de 0,17% dos dados históricos), o foco principal está no tratamento de **dados altamente desbalanceados** e na otimização da métrica de **Recall**, garantindo que o algoritmo seja capaz de capturar o maior número possível de transações ilícitas.
+Este projeto implementa um pipeline completo de Machine Learning para a identificação de fraudes em transações de cartão de crédito. Desenvolvido como projeto prático de **Cibersegurança e Inteligência Artificial** (Santander Bootcamp / DIO), o foco principal está no tratamento de **dados altamente desbalanceados** (fraudes representam cerca de 0,17% dos dados históricos) e na otimização da métrica de **Recall**, garantindo que o algoritmo capture o maior número possível de transações ilícitas.
 
 ---
 
